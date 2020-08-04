@@ -11,6 +11,8 @@ Here's some other stuff you can learn about me!
 
 ![JBMagination's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbmagination&show_icons=true&theme=vue&hide_border=false)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbmagination&layout=compact)
+
 ---
 
 If you're reading this, you're amazing 💚
