@@ -5,7 +5,7 @@
 - Minecraft: Java Edition
 - Minecraft: Pocket Edition (pre-Bedrock Edition for mobile)
 - Minecraft: Wii U Edition (Legacy Console Edition)
-- Minecraft PC Gamer Demo (Beta 1.3 but PC Gamer-themed)
+- Minecraft PC Gamer Demo (Java Edition's Beta 1.3 but themed around PC Gamer)
 - Minecraft: Pi Edition
 - Minecraft Story Mode - A Telltale Games Series (also referred to as Minecraft Story Mode Season 1)
 - Minecraft (also referred to as Minecraft: Bedrock Edition)
