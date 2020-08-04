@@ -1,10 +1,4 @@
-### Hi there 👋
-
-**I'm that one penguin. Particularly, the one you don't know about!**
-
-normally, i talk like this, but considering this is a website where i do a lot of coding stuff, i might as well be a bit more professional.
-
----
+### Hi there 👋 I'm that one penguin.
 
 I do a lot of stuff, like music, gaming, and technology. Here, though, I focus on coding.
 
@@ -15,13 +9,6 @@ Here's some other stuff you can learn about me!
 - ⚡ Fun fact: Did you know that I am attempting to own every edition of *Minecraft* possible? [Here's a list of every single one I own.](https://github.com/jbmagination/jbmagination/blob/master/MINECRAFT.md)
 ---
 
-### Latest YouTube Videos
+If you're reading this, you're amazing 💚
 
----
-
-### Latest Blog Posts
-(please note that I don't use my blog much!!)
-
----
-
-Anyways, how's your day going? I'm still working on this README, so if you're seeing this line of text, then check back in a few days!
+<img align="left" alt="JBMagination's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbmagination&show_icons=true&hide_border=false" />
