@@ -11,4 +11,4 @@ Here's some other stuff you can learn about me!
 
 If you're reading this, you're amazing 💚
 
-<img align="left" alt="JBMagination's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbmagination&show_icons=true&hide_border=false" />
+<img align="left" alt="JBMagination's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbmagination&show_icons=true&theme=vue&hide_border=false" />
