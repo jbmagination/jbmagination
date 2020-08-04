@@ -15,11 +15,11 @@ Here's some other stuff you can learn about me!
 - ⚡ Fun fact: Did you know that I am attempting to own every edition of *Minecraft* possible? [Here's a list of every single one I own.]()
 ---
 
-## Latest YouTube Videos
+### Latest YouTube Videos
 
 ---
 
-## Latest Blog Posts
+### Latest Blog Posts
 (please note that I don't use my blog much!!)
 
 ---
