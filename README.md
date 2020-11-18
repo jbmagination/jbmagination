@@ -5,7 +5,7 @@ I do a lot of stuff, like music, gaming, and technology. Here, though, I focus o
 Here's some other stuff you can learn about me!
 - 🔭 I'm currently working on... a lot of things, actually, and I'm not really bothered to list it.
 - 🌱 I'm currently trying to learn Java, however I'm also trying to learn C and Swift!
-- 😄 I go by `he/him/his`!
+- 😄 I go by `he/him/his` and `they/them/their`!
 - ⚡ Fun fact: Did you know that I am attempting to own every edition of *Minecraft* possible? [Here's a list of every single one I own.](https://github.com/jbmagination/jbmagination/blob/master/MINECRAFT.md)
 ---
 
