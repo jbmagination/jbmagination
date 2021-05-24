@@ -8,7 +8,7 @@ Also, Genshin has a mainland China version, called [原神](https://ys.mihoyo.co
 
 ### America
 **UID**: 619914500</br>
-**AR**: 12
+**AR**: 13
 
 ### Asia
 **UID**: 830822639</br>
