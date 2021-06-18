@@ -12,7 +12,7 @@
 - Minecraft (also referred to as Minecraft: Bedrock Edition)
 - Minecraft 我的世界 (also referred to as Minecraft China*, translates as Minecraft: My World)
 - Minecraft Earth
-- MinecraftEdu (pre-Education Edition)
+- Minecraft: Education Edition
 ---
 
 \* To clarify, yes, the game is an official port to China thanks to NetEase. However, I don't live in China.
