@@ -45,7 +45,7 @@
    - If you do have this app, please let me know! Let's work together to archive it
 
 ## Games that I am in the process of acquiring
-- Minecraft 我的世界: 教育版 (translates as Minecraft My World: Education Edition)
+- Minecraft 我的世界教育版 (translates as Minecraft My World Education Edition)
    - This version of the game is *not* owned by NetEase! It's owned by JD.com ([read](https://www.jdcloud.com/cn/news/detail/648) + [translation](https://translate.google.com/translate?sl=zh-CN&tl=en&u=https://www.jdcloud.com/cn/news/detail/648)) 
    - As far as I'm aware, this merely requires a JD Cloud account... except that requires a mainland China non-VoIP phone number
    - Thankfully, there are multiple services that offer these sorts of numbers, but it will take me some time to get that number, and as such, this version with it
