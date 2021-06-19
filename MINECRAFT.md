@@ -21,7 +21,7 @@
 - Minecraft Earth
    - [RIP. o7](https://www.minecraft.net/en-us/article/minecraft-earth-coming-end)
 - Minecraft 我的世界 (also referred to as Minecraft China*, translates as Minecraft My World)
-   - Yes, the game is an official port to China, created thanks to NetEase ([read](https://web.archive.org/web/20190323172244/https://mojang.com/2016/05/minecraft-is-coming-to-china/)!)
+   - Yes, the game is an official port to China, created thanks to NetEase ([read](https://web.archive.org/web/20190323172244/https://mojang.com/2016/05/minecraft-is-coming-to-china/))
    - No, I don't live in China
 
 ## Games I cannot legally access, or can't access yet
