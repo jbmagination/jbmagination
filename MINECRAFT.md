@@ -59,3 +59,9 @@
 - Minecraft: PlayStation®Vita Edition (Legacy Console Edition)
 - Minecraft: Xbox 360 Edition (Legacy Console Edition)
 - Minecraft: Xbox One Edition (Legacy Console Edition)
+- Minecraft Dungeons Arcade
+   - I *might* be crazy. Just a little bit
+
+## Books I own
+- Essential Handbook
+- Redstone Handbook (Updated Edition)
