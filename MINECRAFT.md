@@ -1,5 +1,7 @@
 [*Wanna head back?*](https://github.com/jbmagination)
 
+I'm excluding merchandise from my collection because let's be honest, not even *I* care about the merchandise. I'll probably buy it but I don't care too much about showing it off.
+
 ## Paid games/apps I own
 - Minecraft: Java Edition
 - Minecraft: Pocket Edition (pre-Bedrock Edition for mobile)
