@@ -10,9 +10,8 @@ Here's some other stuff you can learn about me!
 - ⚡ I'm also getting increasingly obsessed with *Genshin Impact*. [Here's some nifty facts about it, my AR and UID, etc.!](https://github.com/jbmagination/jbmagination/blob/master/info/GENSHIN.md)
 ---
 
-## Wanna try Node.js?
+## Wanna try Connect 4?
 (You probably will be able to soon)
-(...or maybe Connect 4. Not totally sure yet)
 
 ---
 
