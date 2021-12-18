@@ -45,8 +45,8 @@ I'm excluding merchandise from my collection because let's be honest, not even *
    - Available to download as part of [a larger archive](https://archive.org/details/MCPEAlpha), but my Google account did not own this app before removal
 - Minecraft Reality
    - The app was delisted from the App Store at some point, I don't know when
-   - I've yet to see anyone who actually owns Minecraft Reality, nor do I have a device that supports it
-   - If you do have this app, please let me know! Let's work together to archive it
+   - I've let [Omniarchive](https://omniarchive.org) know about the app, and we're working on finding someone who has it
+   - If *you* have this app, please let us know!
 
 ## Games/apps that I am in the process of acquiring
 - Minecraft 我的世界教育版 (translates as Minecraft My World Education Edition)
