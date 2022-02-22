@@ -49,14 +49,14 @@ I'm excluding merchandise from my collection because let's be honest, not even *
    - If *you* have this app, please let us know!
 
 ## Games/apps that I am in the process of acquiring
+-  Minecraft: New Nintendo 3DS Edition
+   - This version is relatively easy to get, and is a high priority as the eShop closes soon
+
+## Games/apps that I plan to get in the future
 - Minecraft 我的世界教育版 (translates as Minecraft My World Education Edition)
    - This version of the game is *not* owned by NetEase! It's owned by JD.com ([read](https://www.jdcloud.com/cn/news/detail/648) + [translation](https://translate.google.com/translate?sl=zh-CN&tl=en&u=https://www.jdcloud.com/cn/news/detail/648)) 
    - As far as I'm aware, this merely requires a JD Cloud account... except that requires a mainland China non-VoIP phone number
    - Thankfully, there are multiple services that offer these sorts of numbers, but it will take me some time to get that number, and as such, this version with it
-
-## Games/apps that I plan to get in the future
--  Minecraft: New Nintendo 3DS Edition
-   - This version is relatively easy to get, but I'm holding off on it because it's $20 but has very little features
 - Minecraft: PlayStation®4 Edition (Legacy Console Edition)
 - Minecraft: PlayStation®Vita Edition (Legacy Console Edition)
 - Minecraft: Xbox 360 Edition (Legacy Console Edition)
