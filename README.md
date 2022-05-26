@@ -1,5 +1,5 @@
 # About Me
-* I go by `she/her` (I'm also comfortable with `he/him` and `they/them`)
+* I go by `she/her`
 * I make music
 * I'm neurodivergent (more specifically, I'm autistic and have ADHD)
 
