@@ -1,7 +1,5 @@
 [*Wanna head back?*](https://github.com/jbmagination)
 
-I'm excluding merchandise from my collection because let's be honest, not even *I* care about the merchandise. I'll probably buy it but I don't care too much about showing it off.
-
 ## Paid games/apps I own
 - Minecraft: Java Edition
 - Minecraft: Pocket Edition (pre-Bedrock Edition for mobile)
@@ -20,6 +18,7 @@ I'm excluding merchandise from my collection because let's be honest, not even *
    - I own a Raspberry Pi
    - You can get the Pi Edition [here](https://www.minecraft.net/en-us/edition/pi) for free right now!
 - Minecraft 4k
+   - Well... technically I "own" this. It's a web thing.
 - Minecraft Earth
    - [RIP. o7](https://www.minecraft.net/en-us/article/minecraft-earth-coming-end)
 - Minecraft Seeds Pro
@@ -45,8 +44,8 @@ I'm excluding merchandise from my collection because let's be honest, not even *
    - Available to download as part of [a larger archive](https://archive.org/details/MCPEAlpha), but my Google account did not own this app before removal
 - Minecraft Reality
    - The app was delisted from the App Store at some point, I don't know when
-   - I've let [Omniarchive](https://omniarchive.org) know about the app, and we're working on finding someone who has it
-   - If *you* have this app, please let us know!
+   - I let [Omniarchive](https://omniarchive.org) know about the app, and we found some IPA files online but are still missing a few versions
+   - If *you* have this app on your account, please let us know!
 
 ## Games/apps that I am in the process of acquiring
 -  Minecraft: New Nintendo 3DS Edition
@@ -63,7 +62,3 @@ I'm excluding merchandise from my collection because let's be honest, not even *
 - Minecraft: Xbox One Edition (Legacy Console Edition)
 - Minecraft Dungeons Arcade
    - I *might* be crazy. Just a little bit
-
-## Books I own
-- Essential Handbook
-- Redstone Handbook (Updated Edition)
