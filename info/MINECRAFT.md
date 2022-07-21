@@ -4,6 +4,8 @@
 - Minecraft: Java Edition
 - Minecraft: Pocket Edition (pre-Bedrock Edition for mobile)
 - Minecraft: Wii U Edition (Legacy Console Edition)
+- Minecraft: New Nintendo 3DS Edition
+   - Mojang considers this Legacy Console Edition, but I disagree (as does the Minecraft wiki) because it's not made by 4J Studios
 - Minecraft: PlayStation®3 Edition (Legacy Console Edition)
 - Minecraft Story Mode - A Telltale Games Series (also referred to as Minecraft Story Mode Season 1)
 - Minecraft (also referred to as Minecraft: Bedrock Edition)
@@ -37,7 +39,8 @@
 - Minecraft: Nintendo Switch Edition (Legacy Console Edition)
    - This Legacy Console Edition version was never released physically
    - As with other Legacy Console editions, the Bedrock edition caused the Console edition to be delisted
-   - eShop codes for delisted games cannot be redeemed, as such this game is inaccessible to me
+   - eShop codes for delisted games cannot be redeemed, as such this game is unobtainable to me
+   - I believe that I can, however, play through a friend's Nintendo account - but I haven't confirmed this yet
  - Minecraft: Apple TV Edition
  - Minecraft: Gear VR Edition
  - Minecraft: Pocket Edition Demo
@@ -48,8 +51,7 @@
    - If *you* have this app on your account, please let us know!
 
 ## Games/apps that I am in the process of acquiring
--  Minecraft: New Nintendo 3DS Edition
-   - This version is relatively easy to get, and is a high priority as the eShop closes soon
+[empty]
 
 ## Games/apps that I plan to get in the future
 - Minecraft 我的世界教育版 (translates as Minecraft My World Education Edition)
