@@ -1,5 +1,3 @@
-[*Wanna head back?*](https://github.com/jbmagination)
-
 ## Paid games/apps I own
 - Minecraft: Java Edition
 - Minecraft: Pocket Edition (pre-Bedrock Edition for mobile)
@@ -7,8 +5,13 @@
 - Minecraft: New Nintendo 3DS Edition
    - Mojang considers this Legacy Console Edition, but I disagree (as does the Minecraft wiki) because it's not made by 4J Studios
 - Minecraft: PlayStation®3 Edition (Legacy Console Edition)
+- Minecraft: PlayStation®Vita Edition (Legacy Console Edition)
+   - This was obtained via Sony's "Cross-Buy" initiative because I own "Minecraft: PlayStation®3 Edition"
+   - Unfortunately, however, I do *not* own a PlayStation Vita  
 - Minecraft Story Mode - A Telltale Games Series (also referred to as Minecraft Story Mode Season 1)
 - Minecraft (also referred to as Minecraft: Bedrock Edition)
+   - "Minecraft for Windows" for Windows 10 and Windows 11
+   - "Minecraft" for Xbox One 
 - Minecraft: Education Edition
 - Minecraft Dungeons
 
@@ -28,7 +31,7 @@
    - Yes, the game is an official port to China, created thanks to NetEase ([read](https://web.archive.org/web/20190323172244/https://mojang.com/2016/05/minecraft-is-coming-to-china/))
    - No, I don't live in China
 
-## Games/apps I cannot legally access, or can't access yet
+## Games/apps I cannot own *or* legally obtain
 - MinecraftEdu (pre-Education Edition)
    - MinecraftEdu licenses were taken down when Education Edition launched ([read](https://web.archive.org/web/20160305002851/https://minecraftedu.com/education_edition))
    - TeacherGaming was shutdown in May 2021 ([read](https://web.archive.org/web/20210514223402/https://store.teachergaming.com/))
@@ -40,7 +43,7 @@
    - This Legacy Console Edition version was never released physically
    - As with other Legacy Console editions, the Bedrock edition caused the Console edition to be delisted
    - eShop codes for delisted games cannot be redeemed, as such this game is unobtainable to me
-   - I believe that I can, however, play through a friend's Nintendo account - but I haven't confirmed this yet
+   - I believe that I can, however, play through a friend's Nintendo account - but I haven't confirmed this yet (currently confirming!)
  - Minecraft: Apple TV Edition
  - Minecraft: Gear VR Edition
  - Minecraft: Pocket Edition Demo
@@ -51,7 +54,8 @@
    - If *you* have this app on your account, please let us know!
 
 ## Games/apps that I am in the process of acquiring
-[empty]
+- Minecraft (also referred to as Minecraft: Bedrock Edition)
+   - "Minecraft" for Nintendo Switch
 
 ## Games/apps that I plan to get in the future
 - Minecraft 我的世界教育版 (translates as Minecraft My World Education Edition)
@@ -59,8 +63,10 @@
    - As far as I'm aware, this merely requires a JD Cloud account... except that requires a mainland China non-VoIP phone number
    - Thankfully, there are multiple services that offer these sorts of numbers, but it will take me some time to get that number, and as such, this version with it
 - Minecraft: PlayStation®4 Edition (Legacy Console Edition)
-- Minecraft: PlayStation®Vita Edition (Legacy Console Edition)
 - Minecraft: Xbox 360 Edition (Legacy Console Edition)
 - Minecraft: Xbox One Edition (Legacy Console Edition)
 - Minecraft Dungeons Arcade
    - I *might* be crazy. Just a little bit
+- Minecraft Legends
+   - This game is currently unreleased
+   - The game will release sometime in 2023
