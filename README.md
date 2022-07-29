@@ -4,7 +4,7 @@
 * I'm neurodivergent (more specifically, I'm autistic and have ADHD)
 
 # Stuff I Do
-* I'm the CEO & founder of [Definity](https://github.com/DefinityTeam); we make things that respect humanity. You can click [here](https://github.com/DefinityTeam#respecting-humanity) to learn more about what that means.
+* I'm the founder of and a director at [Definity](https://github.com/DefinityTeam); we make things that respect humanity. You can click [here](https://github.com/DefinityTeam#respecting-humanity) to learn more about what that means.
 * I'm a [GitHub Global Campus](https://github.blog/2021-09-01-introducing-github-global-campus/) student! My Campus Expert is [@ApolloZhu](https://github.com/ApolloZhu).
 
 # Trophies
