@@ -11,7 +11,8 @@
 - Minecraft Story Mode - A Telltale Games Series (also referred to as Minecraft Story Mode Season 1)
 - Minecraft (also referred to as Minecraft: Bedrock Edition)
    - "Minecraft for Windows" for Windows 10 and Windows 11
-   - "Minecraft" for Xbox One 
+   - "Minecraft" for Xbox One
+   - "Minecraft" for Nintendo Switch
 - Minecraft: Education Edition
 - Minecraft Dungeons
 
@@ -38,12 +39,11 @@
 - Minecraft: Story Mode - Season Two
    - The original Telltale Games went out of business, requiring them to shutdown Story Mode services ([read](https://www.minecraft.net/en-us/article/important-minecraft--story-mode-information))
    - Unfortunately for me, I could not buy Season Two before they went out of business
-   - The only option remaining is to buy a Steam key, which I am willing to do
 - Minecraft: Nintendo Switch Edition (Legacy Console Edition)
    - This Legacy Console Edition version was never released physically
    - As with other Legacy Console editions, the Bedrock edition caused the Console edition to be delisted
    - eShop codes for delisted games cannot be redeemed, as such this game is unobtainable to me
-   - I believe that I can, however, play through a friend's Nintendo account - but I haven't confirmed this yet (currently confirming!)
+     - I can, however, play through a friend's Nintendo account
  - Minecraft: Apple TV Edition
  - Minecraft: Gear VR Edition
  - Minecraft: Pocket Edition Demo
@@ -54,10 +54,9 @@
    - If *you* have this app on your account, please let us know!
 
 ## Games/apps that I am in the process of acquiring
-- Minecraft (also referred to as Minecraft: Bedrock Edition)
-   - "Minecraft" for Nintendo Switch
 
 ## Games/apps that I plan to get in the future
+- Minecraft Legends
 - Minecraft 我的世界教育版 (translates as Minecraft My World Education Edition)
    - This version of the game is *not* owned by NetEase! It's owned by JD.com ([read](https://www.jdcloud.com/cn/news/detail/648) + [translation](https://translate.google.com/translate?sl=zh-CN&tl=en&u=https://www.jdcloud.com/cn/news/detail/648)) 
    - As far as I'm aware, this merely requires a JD Cloud account... except that requires a mainland China non-VoIP phone number
@@ -67,6 +66,3 @@
 - Minecraft: Xbox One Edition (Legacy Console Edition)
 - Minecraft Dungeons Arcade
    - I *might* be crazy. Just a little bit
-- Minecraft Legends
-   - This game is currently unreleased
-   - The game will release sometime in 2023
