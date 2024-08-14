@@ -43,7 +43,7 @@
    - This Legacy Console Edition version was never released physically
    - As with other Legacy Console editions, the Bedrock edition caused the Console edition to be delisted
    - eShop codes for delisted games cannot be redeemed, as such this game is unobtainable to me
-     - I can, however, play through a friend's Nintendo account
+     - I can, however, play through a friend's Nintendo account (and do!)
  - Minecraft: Apple TV Edition
  - Minecraft: Gear VR Edition
  - Minecraft: Pocket Edition Demo
