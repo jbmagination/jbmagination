@@ -1,1 +1,1 @@
-<center>she/her 🏳️‍⚧️🏳️‍🌈</center>
+<p align="center">she/it 🏳️‍⚧️🏳️‍🌈</p>
